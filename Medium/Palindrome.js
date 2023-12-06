@@ -19,7 +19,7 @@ function isPalindrome(str) {
 }
 
 
-let str = "Madam I'm Adam";
+let str = "RACACAR";
 
 const value = isPalindrome(str);
 
